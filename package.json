@@ -32,7 +32,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "babel-preset-es2015-rollup": "^1.1.1",
+    "babel-preset-es2015-rollup": "^3.0.0",
     "bannerize": "^1.0.2",
     "blanket": "^1.2.3",
     "changelogplease": "^1.2.0",
